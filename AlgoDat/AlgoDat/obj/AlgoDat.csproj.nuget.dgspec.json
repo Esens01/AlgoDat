@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elina\\Desktop\\Elina\\B-AMP 4. Semester\\Algorithmen und Datenstrukturen\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj": {}
+    "C:\\Daten\\A Studium\\A TH Nürnberg\\4 SS 2022\\AuD\\Praktikum\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elina\\Desktop\\Elina\\B-AMP 4. Semester\\Algorithmen und Datenstrukturen\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj": {
+    "C:\\Daten\\A Studium\\A TH Nürnberg\\4 SS 2022\\AuD\\Praktikum\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elina\\Desktop\\Elina\\B-AMP 4. Semester\\Algorithmen und Datenstrukturen\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj",
+        "projectUniqueName": "C:\\Daten\\A Studium\\A TH Nürnberg\\4 SS 2022\\AuD\\Praktikum\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj",
         "projectName": "AlgoDat",
-        "projectPath": "C:\\Users\\elina\\Desktop\\Elina\\B-AMP 4. Semester\\Algorithmen und Datenstrukturen\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj",
-        "packagesPath": "C:\\Users\\elina\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elina\\Desktop\\Elina\\B-AMP 4. Semester\\Algorithmen und Datenstrukturen\\Programm\\AlgoDat\\AlgoDat\\obj\\",
+        "projectPath": "C:\\Daten\\A Studium\\A TH Nürnberg\\4 SS 2022\\AuD\\Praktikum\\Programm\\AlgoDat\\AlgoDat\\AlgoDat.csproj",
+        "packagesPath": "C:\\Users\\hilde\\.nuget\\packages\\",
+        "outputPath": "C:\\Daten\\A Studium\\A TH Nürnberg\\4 SS 2022\\AuD\\Praktikum\\Programm\\AlgoDat\\AlgoDat\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\elina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hilde\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
